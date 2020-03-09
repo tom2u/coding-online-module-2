@@ -19,4 +19,4 @@ Each link is to the state of the webpage at the END of the indicated lesson.
 [2.4.6/RUN-BUDDY](https://tom2u.github.io/coding-online-module-2/2.4.6/RUN-BUDDY)  
 [2.4.8/RUN-BUDDY](https://tom2u.github.io/coding-online-module-2/2.4.8/RUN-BUDDY)  
 [2.4.11/RUN-BUDDY](https://tom2u.github.io/coding-online-module-2/2.4.11/RUN-BUDDY/)  
-[2.5.6/RUN-BUDDY](https://tom2u.github.io/coding-online-module-2/2.5.6/RUN-BUDDY/)  
+[2.5.6/RUN-BUDDY](https://tom2u.github.io/coding-online-module-2/2.5.6/RUN-BUDDY)  
